@@ -1,0 +1,3 @@
+take https://www.epubit.com/bookDetails?id=N20629 for example:
+
+python yb.py N20629
